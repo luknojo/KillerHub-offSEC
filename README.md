@@ -14,6 +14,8 @@ Como estudante apaixonado por segurança, estou utilizando este projeto para apr
 
 ## Como Funciona
 
+**EXECUTE O KillerHub.py PRIMEIRO**
+
 1. **Crawler de XSS**: O crawler percorre as páginas de um site em busca de campos de entrada (como formulários, URLs, etc.). Ele tenta injetar scripts simples para verificar se há execuções não autorizadas de código JavaScript.
    
 2. **Scanner de SQL Injection**: O scanner testa entradas comuns em formulários de login, pesquisas e outros campos interativos, verificando se é possível manipular a consulta SQL e acessar informações protegidas.
