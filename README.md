@@ -34,5 +34,4 @@ Como estudante apaixonado por segurança, estou utilizando este projeto para apr
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/crawler-xss-sql-injection.git
-   cd crawler-xss-sql-injection
+   https://github.com/luknojo/KillerHub-offSEC.git
